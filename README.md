@@ -56,6 +56,10 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 
 **Observation: ( Include your own Table relevant to the Experiment)**
 (Paste your Tabulation)
+<img width="804" height="727" alt="WhatsApp Image 2026-06-03 at 10 08 06 AM" src="https://github.com/user-attachments/assets/0a7c6364-6786-4beb-8ec2-36af8afbf237" />
+
+**GRAPH**
+<img width="806" height="969" alt="WhatsApp Image 2026-06-03 at 10 08 06 AM (1)" src="https://github.com/user-attachments/assets/55fd2027-1401-439b-b68f-04045fdf5ca2" />
 
 **CALCULATIONS:**
 
@@ -77,7 +81,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
     **Result:**
-   	
+   	The mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS) has been successfully obtained
 			
 			
 			
